@@ -44,9 +44,19 @@ I'm a passionate **full-stack developer** with expertise in building scalable, h
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhamsheikh460&theme=dark&show_icons=true)
+*View my GitHub activity, contributions, and repository statistics*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamsheikh460&theme=dark&layout=compact)
 
+*Programming languages I use most frequently and their distribution*
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamsheikh460&theme=dark)
+
+*Tracking my consistent coding streak and daily contributions*
+
+![Profile Views](https://komarev.com/ghpvc/?username=arhamsheikh460&color=blue)
+
+*Profile engagement and community reach*
 ---
 
 ## 🎯 Featured Projects
