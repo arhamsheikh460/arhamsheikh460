@@ -38,31 +38,3 @@ I'm a passionate **full-stack developer** with expertise in building scalable, h
 ### Tools & Platforms
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhamsheikh460&theme=dark&show_icons=true)
-*View my GitHub activity, contributions, and repository statistics*
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamsheikh460&theme=dark&layout=compact)
-
-*Programming languages I use most frequently and their distribution*
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamsheikh460&theme=dark)
-
-*Tracking my consistent coding streak and daily contributions*
-
-![Profile Views](https://komarev.com/ghpvc/?username=arhamsheikh460&color=blue)
-
-*Profile engagement and community reach*
----
-
-## 🎯 Featured Projects
-
-Check out my repositories to see what I've been working on! Each project includes detailed documentation and demonstrates best practices in web development.
-
----
-
-**Let's collaborate! Feel free to reach out if you have interesting projects or opportunities.** 🤝
