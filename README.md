@@ -80,10 +80,12 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable, h
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=webdevbyarham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevbyarham&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=webdevbyarham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevbyarham&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevbyarham&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevbyarham&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webdevbyarham&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
@@ -94,7 +96,25 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable, h
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=webdevbyarham&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=webdevbyarham&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/webdevbyarham/webdevbyarham/output/github-contribution-grid-snake.svg" width="90%"/>
+</div>
+
+> 🐍 The snake needs a one-time setup: add a GitHub Action to your profile repo that generates it daily. Setup guide → github.com/Platane/snk. Until that Action runs once, this image stays blank.
+
+<br/>
+
+## 👀 Profile Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=webdevbyarham&label=Profile%20Views&color=61DAFB&style=for-the-badge" />
 </div>
 
 <br/>
