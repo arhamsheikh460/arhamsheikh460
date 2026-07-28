@@ -2,7 +2,7 @@
 
 # Arham Sheikh
 
-### Full-Stack Developer
+## Full-Stack Developer
 
 <sub>Building clean, scalable web applications with React, Next.js & Node.js</sub>
 
