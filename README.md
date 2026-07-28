@@ -91,34 +91,4 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable, h
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arhamsheikh460&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arhamsheikh460/arhamsheikh460/output/github-contribution-grid-snake.svg" width="90%"/>
-</div>
-
-> 🐍 The snake needs a one-time setup: add a GitHub Action to your profile repo that generates it daily. Setup guide → github.com/Platane/snk. Until that Action runs once, this image stays blank.
-
-<br/>
-
-## 👀 Profile Visitors
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arhamsheikh460&label=Profile%20Views&color=61DAFB&style=for-the-badge" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:61DAFB&height=120&section=footer"/>
-
-  ⭐️ **Thanks for visiting my profile — let's build something great together!**
 </div>
