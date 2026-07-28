@@ -74,21 +74,4 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable, h
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arhamsheikh460&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamsheikh460&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamsheikh460&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhamsheikh460&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-
-</div>
-
-<br/>
-
 </div>
